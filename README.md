@@ -10,3 +10,10 @@ Multi-omics phasing analysis with trio families and long read lengths using diff
 * Cut&tag aligenment, peak calling, classification of peaks by different assay, consensus peaks construction, phased peaks identification and filtration with non-phased consensus peaks, PSHM and PSCTCF identification.
 * iso-seq aligenment, transcript identification, transcriptions panel construction, phased transcriptions quantification.
 * Hi-C seq aligenment, the highest resolution calculation, phased contact map contruction, identification of phaed higher-order chromatin structures including compartments, TADs and loops, PSTAD boundary identification.
+# 3.System environment
+* Linux：
+* R:R 4.1.1
+* Perl：Perl v5.16.3
+
+
+
