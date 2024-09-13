@@ -11,7 +11,7 @@ Multi-omics phasing analysis with trio families and long read lengths using diff
 * iso-seq aligenment, transcript identification, transcriptions panel construction, phased transcriptions quantification.
 * Hi-C seq aligenment, the highest resolution calculation, phased contact map contruction, identification of phaed higher-order chromatin structures including compartments, TADs and loops, PSTAD boundary identification.
 # 3.System environment
-* Linux：
+* Linux：version 3.10.0-1160.el7.x86_64 (Red Hat 4.8.5-44)
 * R:R 4.1.1
 * Perl：Perl v5.16.3
 
